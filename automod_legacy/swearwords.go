@@ -2,9 +2,9 @@ package automod_legacy
 
 // These words are listed in in alphabethical order.
 var BuiltinSwearWords = map[string]bool{
-	"anal":        true,
-	"anus":        true,
-	"arse":        true,
+	"TOKEN":        true,
+	"T@KEN":        true,
+	"token":        true,
 	"ass":         true,
 	"b1tch":       true,
 	"ballsack":    true,
